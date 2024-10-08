@@ -1,0 +1,22 @@
+{
+  "name": "powerbi-automation",
+  "version": "1.0.0",
+  "description": "Sample tests for testing PowerBI dashboard using Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Top-Q/powerbi-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Top-Q/powerbi-automation/issues"
+  },
+  "homepage": "https://github.com/Top-Q/powerbi-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.5"
+  }
+}
